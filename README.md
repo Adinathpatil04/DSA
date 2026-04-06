@@ -20,6 +20,7 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Adinathpatil04/DSA/tree/main/0001-two-sum/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adinathpatil04/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/Adinathpatil04/DSA/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -28,5 +29,10 @@ LeetCode and GFG
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adinathpatil04/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/Adinathpatil04/DSA/tree/main/0704-binary-search/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adinathpatil04/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
