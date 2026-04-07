@@ -22,6 +22,7 @@ LeetCode and GFG
 | [0001-two-sum](https://github.com/Adinathpatil04/DSA/tree/main/0001-two-sum/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adinathpatil04/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/Adinathpatil04/DSA/tree/main/0704-binary-search/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Adinathpatil04/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +36,20 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adinathpatil04/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Adinathpatil04/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Adinathpatil04/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Adinathpatil04/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Adinathpatil04/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
