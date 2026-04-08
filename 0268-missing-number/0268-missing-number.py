@@ -1,9 +1,12 @@
 class Solution(object):
     def missingNumber(self, nums):
-       n=len(nums)
+        sum1 = 0
+        sum2 = 0
 
-       sum1=n*(n+1)//2
+        for i in range(0, len(nums) + 1):
+            sum1 = sum1 + i
 
-       sum2=sum(nums)
+        for i in range(0, len(nums)):
+            sum2 = sum2 + nums[i]
 
-       return sum1-sum2
+        return sum1 - sum2
