@@ -50,6 +50,7 @@ LeetCode and GFG
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adinathpatil04/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -71,9 +72,14 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0344-reverse-string](https://github.com/Adinathpatil04/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0020-valid-parentheses/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
