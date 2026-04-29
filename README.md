@@ -82,4 +82,8 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0022-generate-parentheses/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Adinathpatil04/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
