@@ -1,9 +1,9 @@
 class Solution(object):
-    def reverseString(self, s):
+    def reverseString(self, str):
         i = 0
-        j = len(s) - 1
+        j = len(str) - 1
 
         while i < j:
-            s[i], s[j] = s[j], s[i]
+            str[i], str[j] = str[j], str[i]
             i += 1
             j -= 1
