@@ -49,6 +49,7 @@ LeetCode and GFG
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Adinathpatil04/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adinathpatil04/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -92,4 +93,16 @@ LeetCode and GFG
 | [0196-delete-duplicate-emails](https://github.com/Adinathpatil04/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/Adinathpatil04/DSA/tree/main/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Adinathpatil04/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Adinathpatil04/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Adinathpatil04/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Adinathpatil04/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
