@@ -9,6 +9,7 @@ LeetCode and GFG
 | [0009-palindrome-number](https://github.com/Adinathpatil04/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/Adinathpatil04/DSA/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Adinathpatil04/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Adinathpatil04/DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@ LeetCode and GFG
 | [0704-binary-search](https://github.com/Adinathpatil04/DSA/tree/main/0704-binary-search/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adinathpatil04/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Adinathpatil04/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Adinathpatil04/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
