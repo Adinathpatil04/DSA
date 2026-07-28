@@ -41,6 +41,7 @@ LeetCode and GFG
 | [0205-isomorphic-strings](https://github.com/Adinathpatil04/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Adinathpatil04/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/Adinathpatil04/DSA/tree/main/0389-find-the-difference/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,12 +84,14 @@ LeetCode and GFG
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Adinathpatil04/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0389-find-the-difference](https://github.com/Adinathpatil04/DSA/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/Adinathpatil04/DSA/tree/main/0018-4sum/) | Medium |
 | [0242-valid-anagram](https://github.com/Adinathpatil04/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/Adinathpatil04/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Adinathpatil04/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -99,6 +102,7 @@ LeetCode and GFG
 | [0242-valid-anagram](https://github.com/Adinathpatil04/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Adinathpatil04/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adinathpatil04/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Adinathpatil04/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Adinathpatil04/DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
