@@ -44,6 +44,7 @@ LeetCode and GFG
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Adinathpatil04/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adinathpatil04/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Adinathpatil04/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ LeetCode and GFG
 | [0345-reverse-vowels-of-a-string](https://github.com/Adinathpatil04/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Adinathpatil04/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Adinathpatil04/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Adinathpatil04/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
