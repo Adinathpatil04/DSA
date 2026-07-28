@@ -24,6 +24,7 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Adinathpatil04/DSA/tree/main/0001-two-sum/) | Easy |
+| [0018-4sum](https://github.com/Adinathpatil04/DSA/tree/main/0018-4sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adinathpatil04/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Adinathpatil04/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
@@ -50,6 +51,7 @@ LeetCode and GFG
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/Adinathpatil04/DSA/tree/main/0018-4sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adinathpatil04/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Adinathpatil04/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Adinathpatil04/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -84,6 +86,7 @@ LeetCode and GFG
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/Adinathpatil04/DSA/tree/main/0018-4sum/) | Medium |
 | [0242-valid-anagram](https://github.com/Adinathpatil04/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Adinathpatil04/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
