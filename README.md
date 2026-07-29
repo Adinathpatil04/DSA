@@ -67,6 +67,7 @@ LeetCode and GFG
 | [0345-reverse-vowels-of-a-string](https://github.com/Adinathpatil04/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Adinathpatil04/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Adinathpatil04/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Adinathpatil04/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +112,7 @@ LeetCode and GFG
 | [0345-reverse-vowels-of-a-string](https://github.com/Adinathpatil04/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Adinathpatil04/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Adinathpatil04/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Adinathpatil04/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Adinathpatil04/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
