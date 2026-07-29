@@ -133,6 +133,7 @@ LeetCode and GFG
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adinathpatil04/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Adinathpatil04/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/Adinathpatil04/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,4 +146,8 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Adinathpatil04/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Adinathpatil04/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
