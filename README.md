@@ -11,6 +11,7 @@ LeetCode and GFG
 | [0258-add-digits](https://github.com/Adinathpatil04/DSA/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adinathpatil04/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [2427-number-of-common-factors](https://github.com/Adinathpatil04/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Adinathpatil04/DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Adinathpatil04/DSA/tree/main/0258-add-digits/) | Easy |
+| [2427-number-of-common-factors](https://github.com/Adinathpatil04/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,4 +162,8 @@ LeetCode and GFG
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Adinathpatil04/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/Adinathpatil04/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/Adinathpatil04/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
