@@ -43,6 +43,7 @@ LeetCode and GFG
 | [0001-two-sum](https://github.com/Adinathpatil04/DSA/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/Adinathpatil04/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Adinathpatil04/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adinathpatil04/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Adinathpatil04/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Adinathpatil04/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
@@ -61,6 +62,7 @@ LeetCode and GFG
 | ------- | ------- |
 | [0018-4sum](https://github.com/Adinathpatil04/DSA/tree/main/0018-4sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Adinathpatil04/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adinathpatil04/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adinathpatil04/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Adinathpatil04/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Adinathpatil04/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -138,6 +140,7 @@ LeetCode and GFG
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adinathpatil04/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Adinathpatil04/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adinathpatil04/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Adinathpatil04/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
