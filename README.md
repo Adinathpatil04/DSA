@@ -39,6 +39,7 @@ LeetCode and GFG
 | [0977-squares-of-a-sorted-array](https://github.com/Adinathpatil04/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adinathpatil04/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Adinathpatil04/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Adinathpatil04/DSA/tree/main/3818-minimum-prefix-removal-to-make-array-strictly-increasing/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
