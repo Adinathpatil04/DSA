@@ -11,6 +11,7 @@ LeetCode and GFG
 | [0258-add-digits](https://github.com/Adinathpatil04/DSA/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adinathpatil04/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Adinathpatil04/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Adinathpatil04/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Adinathpatil04/DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Simulation
@@ -102,6 +103,7 @@ LeetCode and GFG
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Adinathpatil04/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/Adinathpatil04/DSA/tree/main/0389-find-the-difference/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Adinathpatil04/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
