@@ -144,6 +144,7 @@ LeetCode and GFG
 | [0141-linked-list-cycle](https://github.com/Adinathpatil04/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adinathpatil04/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Adinathpatil04/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/Adinathpatil04/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
