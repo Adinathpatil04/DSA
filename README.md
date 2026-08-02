@@ -18,6 +18,7 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Adinathpatil04/DSA/tree/main/0258-add-digits/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Adinathpatil04/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,10 +127,12 @@ LeetCode and GFG
 | [0392-is-subsequence](https://github.com/Adinathpatil04/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Adinathpatil04/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Adinathpatil04/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Adinathpatil04/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Adinathpatil04/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
