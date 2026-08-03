@@ -43,6 +43,7 @@ LeetCode and GFG
 | [0977-squares-of-a-sorted-array](https://github.com/Adinathpatil04/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adinathpatil04/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Adinathpatil04/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3046-split-the-array](https://github.com/Adinathpatil04/DSA/tree/main/3046-split-the-array/) | Easy |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Adinathpatil04/DSA/tree/main/3818-minimum-prefix-removal-to-make-array-strictly-increasing/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@ LeetCode and GFG
 | [0389-find-the-difference](https://github.com/Adinathpatil04/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adinathpatil04/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Adinathpatil04/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [3046-split-the-array](https://github.com/Adinathpatil04/DSA/tree/main/3046-split-the-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,4 +181,8 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/Adinathpatil04/DSA/tree/main/2427-number-of-common-factors/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3046-split-the-array](https://github.com/Adinathpatil04/DSA/tree/main/3046-split-the-array/) | Easy |
 <!---LeetCode Topics End-->
