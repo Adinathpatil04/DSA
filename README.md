@@ -28,6 +28,7 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Adinathpatil04/DSA/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Adinathpatil04/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/Adinathpatil04/DSA/tree/main/0018-4sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/Adinathpatil04/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0137-single-number-ii](https://github.com/Adinathpatil04/DSA/tree/main/0137-single-number-ii/) | Medium |
@@ -71,6 +72,7 @@ LeetCode and GFG
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Adinathpatil04/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/Adinathpatil04/DSA/tree/main/0018-4sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Adinathpatil04/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adinathpatil04/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -187,4 +189,8 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3046-split-the-array](https://github.com/Adinathpatil04/DSA/tree/main/3046-split-the-array/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Adinathpatil04/DSA/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
