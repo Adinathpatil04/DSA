@@ -18,6 +18,7 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Adinathpatil04/DSA/tree/main/0258-add-digits/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Adinathpatil04/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Adinathpatil04/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -45,6 +46,7 @@ LeetCode and GFG
 | [0977-squares-of-a-sorted-array](https://github.com/Adinathpatil04/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adinathpatil04/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Adinathpatil04/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Adinathpatil04/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3046-split-the-array](https://github.com/Adinathpatil04/DSA/tree/main/3046-split-the-array/) | Easy |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Adinathpatil04/DSA/tree/main/3818-minimum-prefix-removal-to-make-array-strictly-increasing/) | Medium |
 ## Hash Table
@@ -84,6 +86,7 @@ LeetCode and GFG
 | [0392-is-subsequence](https://github.com/Adinathpatil04/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Adinathpatil04/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Adinathpatil04/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Adinathpatil04/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
