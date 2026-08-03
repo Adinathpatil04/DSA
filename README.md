@@ -127,6 +127,7 @@ LeetCode and GFG
 | [0345-reverse-vowels-of-a-string](https://github.com/Adinathpatil04/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Adinathpatil04/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Adinathpatil04/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adinathpatil04/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Adinathpatil04/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Adinathpatil04/DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Adinathpatil04/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -134,6 +135,7 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adinathpatil04/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Adinathpatil04/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
