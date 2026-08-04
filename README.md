@@ -14,6 +14,7 @@ LeetCode and GFG
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Adinathpatil04/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Adinathpatil04/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Adinathpatil04/DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adinathpatil04/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ LeetCode and GFG
 | [1732-find-the-highest-altitude](https://github.com/Adinathpatil04/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adinathpatil04/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3046-split-the-array](https://github.com/Adinathpatil04/DSA/tree/main/3046-split-the-array/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adinathpatil04/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Adinathpatil04/DSA/tree/main/3818-minimum-prefix-removal-to-make-array-strictly-increasing/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
