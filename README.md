@@ -146,6 +146,7 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/Adinathpatil04/DSA/tree/main/0155-min-stack/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adinathpatil04/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Adinathpatil04/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Backtracking
@@ -198,4 +199,8 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Adinathpatil04/DSA/tree/main/0011-container-with-most-water/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Adinathpatil04/DSA/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
