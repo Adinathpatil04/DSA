@@ -160,6 +160,7 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Adinathpatil04/DSA/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/Adinathpatil04/DSA/tree/main/0197-rising-temperature/) | Easy |
 | [0595-big-countries](https://github.com/Adinathpatil04/DSA/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Adinathpatil04/DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Adinathpatil04/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
