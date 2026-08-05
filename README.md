@@ -41,6 +41,7 @@ LeetCode and GFG
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Adinathpatil04/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Adinathpatil04/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Adinathpatil04/DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0414-third-maximum-number](https://github.com/Adinathpatil04/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adinathpatil04/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0704-binary-search](https://github.com/Adinathpatil04/DSA/tree/main/0704-binary-search/) | Easy |
@@ -201,6 +202,7 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Adinathpatil04/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Adinathpatil04/DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,4 +211,8 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Adinathpatil04/DSA/tree/main/0069-sqrtx/) | Easy |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Adinathpatil04/DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
