@@ -8,6 +8,7 @@ LeetCode and GFG
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Adinathpatil04/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Adinathpatil04/DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0069-sqrtx](https://github.com/Adinathpatil04/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0258-add-digits](https://github.com/Adinathpatil04/DSA/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adinathpatil04/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -68,6 +69,7 @@ LeetCode and GFG
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Adinathpatil04/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/Adinathpatil04/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adinathpatil04/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
@@ -203,4 +205,8 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Adinathpatil04/DSA/tree/main/0155-min-stack/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Adinathpatil04/DSA/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
