@@ -44,6 +44,7 @@ LeetCode and GFG
 | [0334-increasing-triplet-subsequence](https://github.com/Adinathpatil04/DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0414-third-maximum-number](https://github.com/Adinathpatil04/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adinathpatil04/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0605-can-place-flowers](https://github.com/Adinathpatil04/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/Adinathpatil04/DSA/tree/main/0704-binary-search/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adinathpatil04/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Adinathpatil04/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -204,6 +205,7 @@ LeetCode and GFG
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Adinathpatil04/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Adinathpatil04/DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0605-can-place-flowers](https://github.com/Adinathpatil04/DSA/tree/main/0605-can-place-flowers/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
