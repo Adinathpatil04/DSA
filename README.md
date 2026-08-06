@@ -8,6 +8,7 @@ LeetCode and GFG
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Adinathpatil04/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Adinathpatil04/DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0067-add-binary](https://github.com/Adinathpatil04/DSA/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Adinathpatil04/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0258-add-digits](https://github.com/Adinathpatil04/DSA/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
@@ -19,6 +20,7 @@ LeetCode and GFG
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Adinathpatil04/DSA/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Adinathpatil04/DSA/tree/main/0258-add-digits/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adinathpatil04/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Adinathpatil04/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -116,6 +118,7 @@ LeetCode and GFG
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Adinathpatil04/DSA/tree/main/0067-add-binary/) | Easy |
 | [0137-single-number-ii](https://github.com/Adinathpatil04/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Adinathpatil04/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -137,6 +140,7 @@ LeetCode and GFG
 | [0010-regular-expression-matching](https://github.com/Adinathpatil04/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0067-add-binary](https://github.com/Adinathpatil04/DSA/tree/main/0067-add-binary/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Adinathpatil04/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Adinathpatil04/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Adinathpatil04/DSA/tree/main/0344-reverse-string/) | Easy |
