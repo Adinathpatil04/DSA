@@ -14,6 +14,7 @@ LeetCode and GFG
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adinathpatil04/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Adinathpatil04/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1492-the-kth-factor-of-n](https://github.com/Adinathpatil04/DSA/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [2427-number-of-common-factors](https://github.com/Adinathpatil04/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Adinathpatil04/DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adinathpatil04/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -28,6 +29,7 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Adinathpatil04/DSA/tree/main/0258-add-digits/) | Easy |
+| [1492-the-kth-factor-of-n](https://github.com/Adinathpatil04/DSA/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [2427-number-of-common-factors](https://github.com/Adinathpatil04/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -223,4 +225,8 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Adinathpatil04/DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Adinathpatil04/DSA/tree/main/1492-the-kth-factor-of-n/) | Medium |
 <!---LeetCode Topics End-->
