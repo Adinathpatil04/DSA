@@ -143,6 +143,7 @@ LeetCode and GFG
 | [0010-regular-expression-matching](https://github.com/Adinathpatil04/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0038-count-and-say](https://github.com/Adinathpatil04/DSA/tree/main/0038-count-and-say/) | Medium |
 | [0067-add-binary](https://github.com/Adinathpatil04/DSA/tree/main/0067-add-binary/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Adinathpatil04/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Adinathpatil04/DSA/tree/main/0242-valid-anagram/) | Easy |
