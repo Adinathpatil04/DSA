@@ -53,6 +53,7 @@ LeetCode and GFG
 | [0918-maximum-sum-circular-subarray](https://github.com/Adinathpatil04/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Adinathpatil04/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adinathpatil04/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Adinathpatil04/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Adinathpatil04/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adinathpatil04/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3046-split-the-array](https://github.com/Adinathpatil04/DSA/tree/main/3046-split-the-array/) | Easy |
@@ -193,6 +194,7 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Adinathpatil04/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Adinathpatil04/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Adinathpatil04/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
