@@ -12,6 +12,7 @@ LeetCode and GFG
 | [0069-sqrtx](https://github.com/Adinathpatil04/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0258-add-digits](https://github.com/Adinathpatil04/DSA/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Adinathpatil04/DSA/tree/main/0268-missing-number/) | Easy |
+| [0829-consecutive-numbers-sum](https://github.com/Adinathpatil04/DSA/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adinathpatil04/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Adinathpatil04/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Adinathpatil04/DSA/tree/main/1492-the-kth-factor-of-n/) | Medium |
@@ -205,6 +206,7 @@ LeetCode and GFG
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0829-consecutive-numbers-sum](https://github.com/Adinathpatil04/DSA/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [2427-number-of-common-factors](https://github.com/Adinathpatil04/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
