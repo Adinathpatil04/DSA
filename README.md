@@ -89,6 +89,7 @@ LeetCode and GFG
 | [0011-container-with-most-water](https://github.com/Adinathpatil04/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/Adinathpatil04/DSA/tree/main/0018-4sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Adinathpatil04/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Adinathpatil04/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adinathpatil04/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adinathpatil04/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Adinathpatil04/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -146,6 +147,7 @@ LeetCode and GFG
 | [0022-generate-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/Adinathpatil04/DSA/tree/main/0038-count-and-say/) | Medium |
 | [0067-add-binary](https://github.com/Adinathpatil04/DSA/tree/main/0067-add-binary/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Adinathpatil04/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Adinathpatil04/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Adinathpatil04/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Adinathpatil04/DSA/tree/main/0344-reverse-string/) | Easy |
