@@ -40,6 +40,7 @@ LeetCode and GFG
 | [0018-4sum](https://github.com/Adinathpatil04/DSA/tree/main/0018-4sum/) | Medium |
 | [0039-combination-sum](https://github.com/Adinathpatil04/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Adinathpatil04/DSA/tree/main/0041-first-missing-positive/) | Hard |
+| [0053-maximum-subarray](https://github.com/Adinathpatil04/DSA/tree/master/0053-maximum-subarray) |
 | [0137-single-number-ii](https://github.com/Adinathpatil04/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/Adinathpatil04/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adinathpatil04/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -106,6 +107,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adinathpatil04/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/Adinathpatil04/DSA/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adinathpatil04/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
 |  |
@@ -113,6 +115,7 @@ LeetCode and GFG
 | [0005-longest-palindromic-substring](https://github.com/Adinathpatil04/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Adinathpatil04/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/Adinathpatil04/DSA/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Adinathpatil04/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adinathpatil04/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
