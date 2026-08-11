@@ -167,6 +167,7 @@ LeetCode and GFG
 | [0049-group-anagrams](https://github.com/Adinathpatil04/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/Adinathpatil04/DSA/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/Adinathpatil04/DSA/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Adinathpatil04/DSA/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Adinathpatil04/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Adinathpatil04/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Adinathpatil04/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -182,6 +183,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/Adinathpatil04/DSA/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Adinathpatil04/DSA/tree/main/0155-min-stack/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adinathpatil04/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Adinathpatil04/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
