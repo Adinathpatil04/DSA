@@ -101,6 +101,7 @@ LeetCode and GFG
 | [0005-longest-palindromic-substring](https://github.com/Adinathpatil04/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Adinathpatil04/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/Adinathpatil04/DSA/tree/main/0018-4sum/) | Medium |
+| [0125-valid-palindrome](https://github.com/Adinathpatil04/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Adinathpatil04/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Adinathpatil04/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adinathpatil04/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -171,6 +172,7 @@ LeetCode and GFG
 | [0067-add-binary](https://github.com/Adinathpatil04/DSA/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/Adinathpatil04/DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Adinathpatil04/DSA/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/Adinathpatil04/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Adinathpatil04/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Adinathpatil04/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Adinathpatil04/DSA/tree/main/0242-valid-anagram/) | Easy |
