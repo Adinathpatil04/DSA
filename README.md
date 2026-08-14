@@ -74,6 +74,7 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Adinathpatil04/DSA/tree/main/0001-two-sum/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Adinathpatil04/DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/Adinathpatil04/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Adinathpatil04/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Adinathpatil04/DSA/tree/main/0141-linked-list-cycle/) | Easy |
@@ -167,6 +168,7 @@ LeetCode and GFG
 | [0010-regular-expression-matching](https://github.com/Adinathpatil04/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Adinathpatil04/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Adinathpatil04/DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0038-count-and-say](https://github.com/Adinathpatil04/DSA/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/Adinathpatil04/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/Adinathpatil04/DSA/tree/main/0067-add-binary/) | Easy |
@@ -303,4 +305,8 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adinathpatil04/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Adinathpatil04/DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 <!---LeetCode Topics End-->
