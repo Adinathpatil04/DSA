@@ -209,6 +209,7 @@ LeetCode and GFG
 | [0577-employee-bonus](https://github.com/Adinathpatil04/DSA/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/Adinathpatil04/DSA/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Adinathpatil04/DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Adinathpatil04/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Adinathpatil04/DSA/tree/main/1148-article-views-i/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/Adinathpatil04/DSA/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Adinathpatil04/DSA/tree/main/1193-monthly-transactions-i/) | Medium |
