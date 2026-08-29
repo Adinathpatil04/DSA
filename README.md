@@ -203,6 +203,7 @@ LeetCode and GFG
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Adinathpatil04/DSA/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/Adinathpatil04/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Adinathpatil04/DSA/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Adinathpatil04/DSA/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
