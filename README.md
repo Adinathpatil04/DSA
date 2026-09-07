@@ -217,6 +217,7 @@ LeetCode and GFG
 | [1070-product-sales-analysis-iii](https://github.com/Adinathpatil04/DSA/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Adinathpatil04/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Adinathpatil04/DSA/tree/main/1148-article-views-i/) | Easy |
+| [1164-product-price-at-a-given-date](https://github.com/Adinathpatil04/DSA/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/Adinathpatil04/DSA/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Adinathpatil04/DSA/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1251-average-selling-price](https://github.com/Adinathpatil04/DSA/tree/main/1251-average-selling-price/) | Easy |
