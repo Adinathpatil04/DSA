@@ -204,6 +204,7 @@ LeetCode and GFG
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Adinathpatil04/DSA/tree/master/0175-combine-two-tables) |
+| [0180-consecutive-numbers](https://github.com/Adinathpatil04/DSA/tree/main/0180-consecutive-numbers/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/Adinathpatil04/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Adinathpatil04/DSA/tree/main/0197-rising-temperature/) | Easy |
 | [0262-trips-and-users](https://github.com/Adinathpatil04/DSA/tree/master/0262-trips-and-users) |
