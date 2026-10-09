@@ -1,12 +1,16 @@
 class Solution(object):
     def mergeAlternately(self, a, b):
-        m=min(len(a),len(b))
-        ans=""
-        for i in range(0,m-1+1,1):
-            ans=ans+a[i]+b[i]
+        i=0
+        j=0
 
-        ans=ans+a[m:]
-        ans=ans+b[m:]
+        ans=""
+        x=min(len(a),len(b))
+
+        for i in range(0,x-1+1,1):
+            ans= ans+ a[i]+ b[i]
+
+        ans= ans + a[x: ]
+        ans = ans+ b[x: ]
 
         return ans
-       
+        
